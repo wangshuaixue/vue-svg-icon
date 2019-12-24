@@ -4,14 +4,14 @@
 
 **更新：该解决方案已经封装成npm包，可以通过npm install的方式直接安装使用。该demo仅作解决方案的示意。**
 
-## npm安装地址
+<!-- ## npm安装地址
 
-[svg-sprite-icon](https://www.npmjs.com/package/svg-sprite-icon)
+[svg-sprite-icon](https://www.npmjs.com/package/svg-sprite-icon) -->
 
 
-## 在线预览
+<!-- ## 在线预览
 
-[预览，戳我](https://monster1935.github.io/vue-svg-icon/)
+[预览，戳我](https://monster1935.github.io/vue-svg-icon/) -->
 
 
 ## 使用方式
